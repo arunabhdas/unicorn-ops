@@ -7,7 +7,13 @@
 ```
 conda create -n stenv python=3.9
 
-conda activate stenv
+# To activate this environment, use
+#
+#     $ conda activate stenv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
 ```
 
 # Links
