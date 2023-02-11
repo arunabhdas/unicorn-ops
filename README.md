@@ -1,7 +1,8 @@
 # unicorn-ai
 Unicorn AI Platform
 
-
+## Screenshots of Unicorn-AI
+![Screenshot 1](https://raw.githubusercontent.com/arunabhdas/unicorn-ai/main/screenshots/unicorn_ai_screenshot_1.png)
 ## Steps
 
 ```
