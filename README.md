@@ -39,3 +39,10 @@ cd unicornai
 npm run dev
 
 ```
+
+
+## Steps for unicorn-ai-shakespeare
+
+```
+pip install playwright
+```
