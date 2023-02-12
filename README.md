@@ -45,4 +45,6 @@ npm run dev
 
 ```
 pip install playwright
+
+playwright install chromium
 ```
