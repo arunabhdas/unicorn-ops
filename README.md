@@ -1,12 +1,12 @@
-# unicorn-ai
-Unicorn AI Platform
+# unicorn-ops
+Unicorn Ops Platform
 
-## Screenshots of Unicorn-AI
-![Screenshot 1](https://raw.githubusercontent.com/arunabhdas/unicorn-ai/main/screenshots/unicorn_ai_screenshot_1.png)
+## Screenshots of Unicorn-Ops
+![Screenshot 1](https://raw.githubusercontent.com/arunabhdas/unicorn-ops/main/screenshots/unicorn_ai_screenshot_1.png)
 ## Steps
 
 ```
-==> cd unicorn-ai-web
+==> cd unicorn-ops-web
 
 ==> npm create skeleton-app@latest UnicornAI
 Need to install the following packages:
@@ -41,7 +41,7 @@ npm run dev
 ```
 
 
-## Steps for unicorn-ai-shakespeare
+## Steps for unicorn-ops-shakespeare
 
 ```
 pip install playwright
